@@ -155,6 +155,5 @@ guillaume@ubuntu:~/AirBnB$ ./console.py
 (hbnb) 
 ```
 
-# Authors
-- Okpara Onyedikachi G
-- Moses Odunosho
+# Author
+- GABRIEL ANGURA
